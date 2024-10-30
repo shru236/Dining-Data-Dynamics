@@ -4,12 +4,6 @@
 
 Welcome to the **Dining Data Dynamics** project! This repository contains code and resources developed during the Data Science internship at Cognifyz Technologies. The project focuses on analyzing restaurant data to derive insights, visualize trends, and build predictive models.
 
-## Table of Contents
-
-- [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
-- [Tasks Overview](#tasks-overview)
-
 ## Getting Started
 
 To get started with this project, clone the repository to your local machine:
